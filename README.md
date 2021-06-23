@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
 <a href="https://github.com/lisa-sa-li/lisa-sa-li"><img src="https://komarev.com/ghpvc/?username=lisa-sa-li&color=orange&style=flat-square&label=Views:" height=28/></a>
-<a href="https://www.lisali.me"><img src="https://img.shields.io/badge/UX_Portfolio-f5ba23.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.lisali.me"><img src="https://img.shields.io/badge/UX_Portfolio-f5ba23.svg?&style=for-the-badge&logo=googlechrome&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/lisa-li/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lisasiaili@gmail.com"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 <!-- <a href="https://www.lisali.me"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a> -->
@@ -64,5 +64,5 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 [![Lisa Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa-sa-li&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/lisa-sa-li)
 
 ## Credits
-Credits to ![owenps](https://github.com/owenps/) for this template. 
+Credits to [owenps](https://github.com/owenps/) for this template. 
 
