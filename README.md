@@ -31,7 +31,7 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ### Web:
 
 <!-- React, JavaScript (TypeScript, Flow), Redux, CSS (Sass, LESS), & HTML. -->
-![React Badge](https://img.shields.io/badge/React-222222?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=white) 
+![React Badge](https://img.shields.io/badge/React-222222?style=for-the-badge&labelColor=black&logo=react&logoColor=white) 
 ![JavaScript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
 ![Flow Badge](https://img.shields.io/badge/Flow-FFD766?style=for-the-badge&labelColor=black&logo=flow&logoColor=white)
@@ -52,15 +52,16 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ### Design:
 ![Figma Badge](https://img.shields.io/badge/Figma-0A1931?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![Sketch Badge](https://img.shields.io/badge/Sketch-FDAD00?style=for-the-badge&labelColor=black&logo=sketch&logoColor=white)
-![Adobe XD Badge](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
-![Adobe Photoshop Badge](https://img.shields.io/badge/AdobePhotoshop-001E36?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
+![Adobe XD Badge](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
 ![Invision Badge](https://img.shields.io/badge/Invision-FF3366?style=for-the-badge&labelColor=black&logo=invision&logoColor=white) 
 
 ### Misc:
 ![Git Badge](https://img.shields.io/badge/Git-F05133?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
 ![Jira Badge](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&labelColor=black&logo=jira&logoColor=white) 
-![GCP Badge](https://img.shields.io/badge/GCP-E2E3E4?style=for-the-badge&labelColor=black&logo=googlecloudplatform&logoColor=white) 
-<!-- Apache Airflow, & Scrapy. -->
+![GCP Badge](https://img.shields.io/badge/GCP-E2E3E4?style=for-the-badge&labelColor=black&logo=gcp&logoColor=white) 
+![Airflow Badge](https://img.shields.io/badge/Airflow-00C7D4?style=for-the-badge&labelColor=black&logo=airflow&logoColor=white) 
+![Scrapy Badge](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&labelColor=black&logo=scrapy&logoColor=white) 
 
 ## Statistics:
 [![Lisa Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa-sa-li&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/lisa-sa-li)
