@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="mailto:lisasiaili@gmail.com"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 
 
-I'm Lisa, a senior engineering student at the University of Toronto. I'm looking for new grad 2022 positions in fields that combine software and design, including but not limited to Frontend Engineering, UX Engineering, Design Technologist, and Product Design.
+I'm Lisa (she/her), a senior engineering student at the University of Toronto. I'm looking for new grad 2022 positions in fields that combine software and design, including but not limited to Frontend Engineering, UX Engineering, Design Technologist, and Product Design.
 
 I'm actively looking to combine my 2 favourite things, design + software. With a specialization in Machine Intelligence, minor in Engineering Business, and work experience in product design, front-end development, and software engineering, I hoping my diverse background is what you're looking for :) 
 
@@ -35,10 +35,10 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ![JavaScript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
 ![Flow Badge](https://img.shields.io/badge/Flow-FFD766?style=for-the-badge&labelColor=black&logo=flow&logoColor=white)
-![Redux Badge](https://img.shields.io/badge/Redux-754DB8?style=for-the-badge&labelColor=white&logo=redux&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-1572B7?style=for-the-badge&labelColor=white&logo=css3&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-754DB8?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B7?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CD669A?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
-![Less Badge](https://img.shields.io/badge/Less-white?style=for-the-badge&labelColor=1E406E&logo=less&logoColor=white)
+![Less Badge](https://img.shields.io/badge/Less-white?style=for-the-badge&labelColor=black&logo=less&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-293B5F?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
 
 ### Data:
@@ -52,12 +52,15 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ### Design:
 ![Figma Badge](https://img.shields.io/badge/Figma-0A1931?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![Sketch Badge](https://img.shields.io/badge/Sketch-FDAD00?style=for-the-badge&labelColor=black&logo=sketch&logoColor=white)
-![Adobe XD Badge](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&labelColor=FF61F6&logo=adobe&logoColor=white) 
-![Adobe Photoshop Badge](https://img.shields.io/badge/AdobePhotoshop-001E36?style=for-the-badge&labelColor=31A8FF&logo=adobe&logoColor=white) 
+![Adobe XD Badge](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
+![Adobe Photoshop Badge](https://img.shields.io/badge/AdobePhotoshop-001E36?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white) 
 ![Invision Badge](https://img.shields.io/badge/Invision-FF3366?style=for-the-badge&labelColor=black&logo=invision&logoColor=white) 
 
 ### Misc:
-Git, JIRA, GCP, Apache Airflow, & Scrapy.
+![Git Badge](https://img.shields.io/badge/Git-F05133?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
+![Jira Badge](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&labelColor=black&logo=jira&logoColor=white) 
+![GCP Badge](https://img.shields.io/badge/GCP-E2E3E4?style=for-the-badge&labelColor=black&logo=googlecloudplatform&logoColor=white) 
+<!-- Apache Airflow, & Scrapy. -->
 
 ## Statistics:
 [![Lisa Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa-sa-li&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/lisa-sa-li)
