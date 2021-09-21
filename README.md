@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm Lisa (she/her), a senior engineering student at the University of Toronto. I'm looking for new grad 2022 positions in fields that combine software and design, including but not limited to Frontend Engineering, UX Engineering, Design Technologist, and Product Design.
 
-I'm actively looking to combine my 2 favourite things, design + software. With a specialization in Machine Intelligence, minor in Engineering Business, and work experience in product design, front-end development, and software engineering, I hoping my diverse background is what you're looking for :) 
+I'm actively looking to combine my 2 favourite things, design + software. With a specialization in Machine Intelligence, minor in Engineering Business, and work experience in product design, front-end development, and software engineering, I hope my diverse background is what you're looking for :) 
 
 ## Skills
 
