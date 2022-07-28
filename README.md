@@ -38,7 +38,7 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ![Less Badge](https://img.shields.io/badge/Less-white?style=for-the-badge&labelColor=black&logo=less&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-293B5F?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&labelColor=black&logo=java&logoColor=white)
-
+![Ruby Badge](https://img.shields.io/badge/Ruby-930E04?style=for-the-badge&labelColor=black&logo=ruby&logoColor=white)
 
 ### Data
 ![Python Badge](https://img.shields.io/badge/Python-366A97?style=for-the-badge&labelColor=black&logo=Python&logoColor=white) 
