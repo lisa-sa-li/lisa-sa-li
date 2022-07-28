@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="mailto:lisasiaili@gmail.com"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 <!-- <a href="https://www.lisali.me"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a> -->
 
-I'm Lisa (she/her), a senior engineering student at the University of Toronto. I'm looking for new grad 2022 positions in fields that combine software and design, including but not limited to Frontend Engineering, UX Engineering, Design Technologist, and Product Design.
+I'm Lisa (she/her), a recent engineering graduate at the University of Toronto and current Software Engineer at Stripe. I'm interested in fields that combine software and design, including but not limited to Frontend Engineering, UX Engineering, Design Technologist, and Product Design.
 
 I'm actively looking to combine my 2 favourite things, design + software. With a specialization in Machine Intelligence, minor in Engineering Business, and work experience in product design, front-end development, and software engineering, I hope my diverse background is what you're looking for :) 
 
@@ -37,6 +37,8 @@ I'm actively looking to combine my 2 favourite things, design + software. With a
 ![Sass Badge](https://img.shields.io/badge/Sass-CD669A?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
 ![Less Badge](https://img.shields.io/badge/Less-white?style=for-the-badge&labelColor=black&logo=less&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-293B5F?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&labelColor=black&logo=java&logoColor=white)
+
 
 ### Data
 ![Python Badge](https://img.shields.io/badge/Python-366A97?style=for-the-badge&labelColor=black&logo=Python&logoColor=white) 
